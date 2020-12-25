@@ -92,7 +92,7 @@ do you have any articles or contexts that you hope to be translated and localize
 <input id="OrphanageCheckbox" type="checkbox">Orphanage<br>
 <input id="AnimalCheckbox" type="checkbox">Green Environment and Animal Protection<br>
 
-<p>Thanks for your time</p>
+<p>Thanks for taking your time</p>
 <input type="submit" value="Submit">
 
 </body>
